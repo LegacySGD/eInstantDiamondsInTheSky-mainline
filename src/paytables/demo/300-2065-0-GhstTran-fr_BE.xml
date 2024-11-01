@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fr_BE">
+<phrase key="softwareId" value="ID du logiciel"/>
+<phrase key="transactionId" value="ID de transaction"/>
+<phrase key="totalWins" value="Total des gains"/>
+<phrase key="totalWager" value="Total de la mise"/>
+<phrase key="winningNumbers" value="Numéros porte-bonheur"/>
+<phrase key="yourNumbers" value="Vos numéros"/>
+<phrase key="instantWin" value=""/>
+<phrase key="youMatched" value=""/>
+<phrase key="boardNumbers" value="Numéro"/>
+<phrase key="boardValues" value="Valeur du lot"/>
+<phrase key="BUY" value=""/>
+<phrase key="TRY" value=""/>
+<phrase key="wagerType" value=""/>
+<phrase key="bonus" value=""/>
+<phrase key="N" value=""/>
+<phrase key="X" value=""/>
+<phrase key="Y" value=""/>
+<phrase key="Z" value=""/>
+<phrase key="bonusPrize" value=""/>
+</translation>

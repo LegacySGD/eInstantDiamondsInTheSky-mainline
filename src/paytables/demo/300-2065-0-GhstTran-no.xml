@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="no">
+<phrase key="softwareId" value="Programvare-ID"/>
+<phrase key="transactionId" value="Transaksjons-ID"/>
+<phrase key="totalWins" value="PREMIE"/>
+<phrase key="totalWager" value="PRIS"/>
+<phrase key="winningNumbers" value="Lykketall"/>
+<phrase key="yourNumbers" value="Dine tall"/>
+<phrase key="instantWin" value=""/>
+<phrase key="youMatched" value=""/>
+<phrase key="boardNumbers" value="TALL"/>
+<phrase key="boardValues" value="Premie"/>
+<phrase key="BUY" value=""/>
+<phrase key="TRY" value=""/>
+<phrase key="wagerType" value=""/>
+<phrase key="bonus" value=""/>
+<phrase key="N" value=""/>
+<phrase key="X" value=""/>
+<phrase key="Y" value=""/>
+<phrase key="Z" value=""/>
+<phrase key="bonusPrize" value=""/>
+</translation>

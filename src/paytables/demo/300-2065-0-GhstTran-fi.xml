@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fi">
+<phrase key="softwareId" value="Järjestelmän tunniste"/>
+<phrase key="transactionId" value="Tapahtuman tunnniste"/>
+<phrase key="totalWins" value="Kokonaisvoitot"/>
+<phrase key="totalWager" value="Kokonaispanos"/>
+<phrase key="winningNumbers" value="Onnennumerot"/>
+<phrase key="yourNumbers" value="Sinun numerosi"/>
+<phrase key="instantWin" value=""/>
+<phrase key="youMatched" value=""/>
+<phrase key="boardNumbers" value="Numero"/>
+<phrase key="boardValues" value="Palkinnon arvo"/>
+<phrase key="BUY" value=""/>
+<phrase key="TRY" value=""/>
+<phrase key="wagerType" value=""/>
+<phrase key="bonus" value=""/>
+<phrase key="N" value=""/>
+<phrase key="X" value=""/>
+<phrase key="Y" value=""/>
+<phrase key="Z" value=""/>
+<phrase key="bonusPrize" value=""/>
+</translation>
